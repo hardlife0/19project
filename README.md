@@ -1,3 +1,4 @@
-#19Project
-
-<img src="https://img.shields.io/badge/Project-3178C6?style=flat&logo=Adafruit&logoColor=white"/>
+# 19Project
+19학번들이 진행하는 프로젝트
+## 👨‍🏫 프로젝트 소개
+회원가입 기능 구현하기
